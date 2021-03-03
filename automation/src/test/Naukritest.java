@@ -28,7 +28,7 @@ public class Naukritest extends baseclass
 		
 		
 		
-		naukri n = new naukri(driver);
+		naukri n = new naukri(driver)   ;
 		
 		/*close all the child window*/
 		Thread.sleep(2000);
